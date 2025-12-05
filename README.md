@@ -119,9 +119,17 @@ I regularly use AI tools to support my development process by:
 ---
 
 ## 📫 Contact
-- **Email:** juanjoseca70@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/juan-jose-cadavid-105b69272/
----
+<p align="left">
+  <a href="(https://www.linkedin.com/in/juan-jose-cadavid-105b69272/)">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45px">
+  </a>
+  <a href="https://github.com/JJCD-2005">
+    <img src="https://skillicons.dev/icons?i=github" width="45px">
+  </a>
+  <a href="mailto:juanjoseca70@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45px">
+  </a>
+</p>
 
 <p align="center">
   <em>“Clean code, clear mind.”</em>
