@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:f0f0f0&height=90&section=header&text=Juan%20José%20Cadavid&fontSize=35&fontColor=000000&animation=fadeIn" />
 </p>
 
-<h3 align="center">Systems Engineering Student | Aspiring Full-Stack Developer</h3>
+<h3 align="center">Systems Engineering Student | Full-Stack Developer</h3>
 
 ---
 
