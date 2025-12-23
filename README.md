@@ -112,6 +112,9 @@ I regularly use AI tools to support my development process by:
 <!-- Cybersecurity (represented with Kali icon for now) -->
 <img src="https://skillicons.dev/icons?i=kali" height="45" />
 
+<!-- Amazon Web services-->
+<img src="https://skillicons.dev/icons?i=aws" height="45" />
+
 </p>
 
 ---
