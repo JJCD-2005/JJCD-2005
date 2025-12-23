@@ -69,8 +69,6 @@ I regularly use AI tools to support my development process by:
 <!-- Python -->
 <img src="https://skillicons.dev/icons?i=python" height="45" />
 
-<!-- Flask -->
-<img src="https://skillicons.dev/icons?i=flask" height="45" />
 
 <!-- JavaScript -->
 <img src="https://skillicons.dev/icons?i=javascript" height="45" />
